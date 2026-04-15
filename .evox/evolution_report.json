@@ -1,0 +1,33 @@
+{
+  "project": "~/Desktop/darwin-framework",
+  "timestamp": "2026-04-16T02:39:36.366478",
+  "total_assets": 1,
+  "avg_score_before": 43.0,
+  "avg_score_after": 43.0,
+  "rounds": [
+    {
+      "round_num": 1,
+      "target": "/Users/apple/Desktop/darwin-framework/darwin.py",
+      "dimension": "frontmatter",
+      "before": 43,
+      "after": 43,
+      "improved": false,
+      "description": "无法生成有效改进",
+      "commit_hash": "",
+      "reverted": false
+    },
+    {
+      "round_num": 2,
+      "target": "/Users/apple/Desktop/darwin-framework/darwin.py",
+      "dimension": "frontmatter",
+      "before": 43,
+      "after": 43,
+      "improved": false,
+      "description": "无法生成有效改进",
+      "commit_hash": "",
+      "reverted": false
+    }
+  ],
+  "successful": 0,
+  "reverted": 0
+}
