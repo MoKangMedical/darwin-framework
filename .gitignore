@@ -3,3 +3,9 @@ __pycache__/
 *.log
 .env
 _data/
+.env.local
+.env.*.local
+*.key
+*.pem
+*_secret*
+credentials.json
